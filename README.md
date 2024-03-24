@@ -37,7 +37,7 @@ This lesson is a code-along, so fork and clone the repo.
 
 ```bash
 pipenv install
-pipenv shell
+pipenv shell  
 ```
 
 We'll add a command line interface to the company ORM application that we've

@@ -4,6 +4,8 @@ from models.department import Department
 from faker import Faker
 import pytest
 
+fake = Faker()
+
 
 class TestEmployee:
     '''Class Employee in employee.py'''
